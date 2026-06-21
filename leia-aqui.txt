@@ -1,0 +1,4 @@
+Adicione aqui:
+- imagens/ — tipos de peças, etapas de instalação e ajustes
+- audio/ — dicas de diagnóstico rápido
+- planilhas/ — cálculo de custos e ficha de revisão
